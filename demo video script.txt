@@ -1,0 +1,17 @@
+"Welcome to the project dashboard.
+
+This is the Invoice Processing Page, where invoices can be processed, 
+and data is extracted. We have integrated Tesseract OCR for text extraction 
+from invoices and developed an AI-powered OCR model to enhance accuracy and readability. 
+The extracted data is then mapped to an Invoice Card for structured representation.
+
+Next, we have the Expense Categorization Page, where expenses are classified using an AI model.
+For this task, I have implemented BERT, ensuring precise and context-aware categorization.
+
+On the Automatic Reconciliation Page, transactions are reconciled intelligently.
+The system identifies and displays both matched and unmatched records for review.
+
+We also have an AI-powered Chatbot that provides instant answers to accounting-related queries.
+
+All extracted, categorized, and reconciled data is consolidated and displayed on the Dashboard 
+Page for a comprehensive overview of financial activities."
